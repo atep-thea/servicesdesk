@@ -1,0 +1,28 @@
+.head_profile{
+	background-image: url(../images/bg_profile3.jpg);
+	height: 100%;
+    right: auto;
+    background-size: 100% 100%;
+    padding-top: 33px;
+    padding-bottom: 30px;
+}
+
+.bg-sidebar{
+	background-image: url(../images/bg-sidebar.jpg) !important;
+	height: 100%;
+    right: auto;
+    background-size: 100% 100%;
+    padding-top: 0px !important
+}
+
+.bg-formlogin{
+    background-image: url(../images/bg6.png);
+    margin-top:180px;
+    height: 100%;
+    right: auto;
+    background-size: 100% 100%;
+}
+
+.padd_dashboard{
+	padding: 40px 50px 30px 50px;
+}
